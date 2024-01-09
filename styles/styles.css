@@ -1,5 +1,5 @@
 *{
-    margin: 0 ;
+    margin: 0;
     padding: 0;
 }
 
@@ -18,24 +18,25 @@
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%) ;
+    transform: translate(-50%, -50%);
 }
-.happy-year{
-color: #FFF;
-text-align: center;
-font-family: Merriweather, sans-serif;
-font-size: 32px;
-font-style: normal;
-font-weight: 400;
 
+.happy-year{
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather, sans-serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
 }
+
 .party-celebration{
     color: #FFF;
-text-align: center;
-font-family: Merriweather,sans-serif;
-font-size: 72px;
-font-style: normal;
-font-weight: 900;
+    text-align: center;
+    font-family: Merriweather,sans-serif;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
 }
 
 .section-two{
@@ -106,7 +107,6 @@ font-weight: 900;
     font-weight: 900;
     line-height: 88px; 
     letter-spacing: 7.04px;
-
 }
 
 .section-three-para{
@@ -193,30 +193,30 @@ font-weight: 900;
 }
 .section-five-text-content .gifts{
     color: #F00;
-font-family: Inter,sans-serif;
-font-size: 24px;
-font-style: normal;
-font-weight: 500;
-line-height: normal;
-text-transform: uppercase;
+    font-family: Inter,sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: uppercase;
 }
 .awesome-portfolio{
     color: #070211;
-font-family: Merriweather,sans-serif;
-font-size: 48px;
-font-style: normal;
-font-weight: 900;
-line-height: normal;
-text-transform: capitalize;
+    font-family: Merriweather,sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
 }
 .section-five-demo-text{
     color: rgba(7, 2, 17, 0.60);
-font-family: Inter, sans-serif;
-font-size: 20px;
-font-style: normal;
-font-weight: 400;
-width: 896px;
-line-height: 32px;
+    font-family: Inter, sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    width: 896px;
+    line-height: 32px;
 }
 .section-five-first-row{
     display: grid;
